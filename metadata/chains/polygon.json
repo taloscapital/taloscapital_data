@@ -1,0 +1,9 @@
+{
+  "rpc": "https://polygon.llamarpc.com",
+  "name": "Polygon",
+  "abbreviation": "MATIC",
+  "ticker": "MATIC",
+  "image": "https://icons.llamao.fi/icons/chains/rsz_polygon.jpg",
+  "id": 137,
+  "testnet": false
+}

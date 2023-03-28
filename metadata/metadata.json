@@ -1,0 +1,11 @@
+{
+  "chains": [
+    "arbitrum",
+    "binance",
+    "ethereum",
+    "optimism",
+    "polygon",
+    "polygon_mumbai"
+  ],
+  "pools": []
+}

@@ -1,0 +1,8 @@
+{
+  "rpc": "https://endpoints.omniatech.io/v1/arbitrum/one/public",
+  "name": "Arbitrum",
+  "abbreviation": "ARB",
+  "ticker": "ETH",
+  "image": "https://icons.llamao.fi/icons/chains/rsz_arbitrum.jpg",
+  "id": 42161
+}

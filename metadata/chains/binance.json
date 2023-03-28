@@ -1,0 +1,8 @@
+{
+  "rpc": "https://bsc-dataseed.binance.org",
+  "name": "binance",
+  "abbreviation": "BSC",
+  "ticker": "BNB",
+  "image": "https://icons.llamao.fi/icons/chains/rsz_binance.jpg",
+  "id": 56
+}

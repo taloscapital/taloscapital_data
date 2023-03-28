@@ -1,0 +1,9 @@
+{
+  "rpc": "https://endpoints.omniatech.io/v1/matic/mumbai/public",
+  "name": "Polygon Mumbai",
+  "abbreviation": "MATIC",
+  "ticker": "MATIC",
+  "image": "https://icons.llamao.fi/icons/chains/rsz_polygon.jpg",
+  "id": 80001,
+  "testnet": true
+}
