@@ -51,7 +51,7 @@
       "pools": [
         {
           "title": "PSAR & EMA Spot Trading",
-          "uuid": "3453453dfb387o7b48tog743bfs",
+          "id": 5000,
           "description": "DESCRIPTION GOES HERE",
           "tags": ["TAG1", "TAG2", "TAG3"],
           "address": "ON-CHAIN-ADDRESS",
