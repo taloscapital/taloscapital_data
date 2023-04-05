@@ -1,8 +1,0 @@
-{
-  "rpc": "https://eth.llamarpc.com",
-  "name": "Ethereum",
-  "abbreviation": "ETH",
-  "ticker": "ETH",
-  "image": "https://icons.llamao.fi/icons/chains/rsz_ethereum.jpg",
-  "id": 1
-}

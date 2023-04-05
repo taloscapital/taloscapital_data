@@ -1,11 +1,76 @@
 {
-  "chains": [
-    "arbitrum",
-    "binance",
-    "ethereum",
-    "optimism",
-    "polygon",
-    "polygon_mumbai"
+  "networks": [
+    {
+      "rpc": "https://endpoints.omniatech.io/v1/arbitrum/one/public",
+      "name": "Arbitrum",
+      "abbreviation": "ARB",
+      "ticker": "ETH",
+      "image": "https://icons.llamao.fi/icons/chains/rsz_arbitrum.jpg",
+      "id": 42161,
+      "testnet": false,
+      "pools": []
+    },
+    {
+      "rpc": "https://bsc-dataseed.binance.org",
+      "name": "binance",
+      "abbreviation": "BSC",
+      "ticker": "BNB",
+      "image": "https://icons.llamao.fi/icons/chains/rsz_binance.jpg",
+      "id": 56,
+      "testnet": false,
+      "pools": []
+    },
+    {
+      "rpc": "https://eth.llamarpc.com",
+      "name": "Ethereum",
+      "abbreviation": "ETH",
+      "ticker": "ETH",
+      "image": "https://icons.llamao.fi/icons/chains/rsz_ethereum.jpg",
+      "id": 1,
+      "testnet": false,
+      "pools": []
+    },
+    {
+      "rpc": "https://mainnet.optimism.io",
+      "name": "Optimism",
+      "abbreviation": "OP",
+      "ticker": "ETH",
+      "image": "https://icons.llamao.fi/icons/chains/rsz_optimism.jpg",
+      "id": 10,
+      "testnet": false,
+      "pools": []
+    },
+    {
+      "rpc": "https://polygon.llamarpc.com",
+      "name": "Polygon",
+      "abbreviation": "MATIC",
+      "ticker": "MATIC",
+      "image": "https://icons.llamao.fi/icons/chains/rsz_polygon.jpg",
+      "id": 137,
+      "testnet": false,
+      "pools": [
+        {
+          "title": "PSAR & EMA Spot Trading",
+          "uuid": "3453453dfb387o7b48tog743bfs",
+          "description": "DESCRIPTION GOES HERE",
+          "tags": ["TAG1", "TAG2", "TAG3"],
+          "address": "ON-CHAIN-ADDRESS",
+          "risk": 5,
+          "code": "https://github.com/taloscapital/taloscapital_strategies/blob/master/src/strategies/dummy_strategy.py"
+        }
+      ]
+    }
   ],
-  "pools": []
+  "testnets": [
+    {
+      "rpc": "https://endpoints.omniatech.io/v1/matic/mumbai/public",
+      "name": "Polygon Mumbai",
+      "abbreviation": "MATIC",
+      "ticker": "MATIC",
+      "image": "https://icons.llamao.fi/icons/chains/rsz_polygon.jpg",
+      "id": 80001,
+      "testnet": true,
+      "pools": []
+    }
+  ]
 }

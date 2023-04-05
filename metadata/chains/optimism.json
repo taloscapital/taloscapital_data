@@ -1,8 +1,0 @@
-{
-  "rpc": "https://mainnet.optimism.io",
-  "name": "Optimism",
-  "abbreviation": "OP",
-  "ticker": "ETH",
-  "image": "https://icons.llamao.fi/icons/chains/rsz_optimism.jpg",
-  "id": 10
-}
