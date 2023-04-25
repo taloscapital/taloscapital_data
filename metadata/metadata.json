@@ -48,8 +48,20 @@
       "image": "https://raw.githubusercontent.com/taloscapital/taloscapital_data/master/assets/chains/polygon.png",
       "id": 137,
       "testnet": false,
-      "pools": []
-    },
+      "pools": [
+        {
+          "title": "Dual Regression",
+          "id": 1,
+          "description": "This strategy uses two linear regression channels in combination with a few other indicators to create its signals.",
+          "tags": ["Aggressive", "Short Term"],
+          "address": "0x000000000000000000000000000000000000dEaD",
+          "risk": 5,
+          "code": "https://docs.talos.capital/talos-bot/strategies"
+        }
+      ]
+    }
+  ],
+  "testnets": [
     {
       "rpc": "https://endpoints.omniatech.io/v1/matic/mumbai/public",
       "name": "Polygon Mumbai",
