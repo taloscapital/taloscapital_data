@@ -49,9 +49,7 @@
       "id": 137,
       "testnet": false,
       "pools": []
-    }
-  ],
-  "testnets": [
+    },
     {
       "rpc": "https://endpoints.omniatech.io/v1/matic/mumbai/public",
       "name": "Polygon Mumbai",
